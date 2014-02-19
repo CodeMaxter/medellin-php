@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-0": {
+            "MyApp": "src"
+        }
+    },
+    "require": {
+        "react/http": "0.3.*",
+		"react/dns": "0.3.*",
+		"react/http-client": "0.3.*",
+		"react/event-loop": "v0.4.0"
+    }
+}
