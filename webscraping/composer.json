@@ -1,0 +1,7 @@
+{
+    "require": {
+        "react/dns": "0.3.*",
+		"react/http-client": "0.3.*",
+        "react/http": "0.3.*"
+    }
+}
